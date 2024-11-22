@@ -28,4 +28,3 @@ plt.legend(title='Sexo')
 plt.xticks(rotation=45)
 plt.tight_layout()  
 plt.show()
-ply
